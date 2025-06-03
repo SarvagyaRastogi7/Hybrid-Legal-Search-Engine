@@ -113,7 +113,6 @@ _Current implementation outputs only the final ranked results. Automatic evaluat
 - `Sample-Queries.txt` – Example queries for each dataset
 - `Search-Engine-PPT.pptx` – Project presentation slides
 - `IR-VIDEO.mp4` – Video overview of the presentation provided
-- `Demo-Video.mp4` - Video of how the search engine runs
 
 ---
 
